@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "mocha spec"
+    "test": "mocha spec",
+    "index": "node index.js"
   },
   "dependencies": {
     "mocha": "2.2.5",
